@@ -1,6 +1,5 @@
 package com.newyou.bydebby.springcomponentdemo.component;
 
-import com.newyou.bydebby.springdemoapp.scope.JDBCConnection;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
